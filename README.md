@@ -27,3 +27,9 @@ Pagos seguros con PayPal: Integración con PayPal para procesar pagos de manera 
 - Carrito: Los usuarios pueden revisar y proceder al pago de sus productos seleccionados.
 - Diseño responsivo: La aplicación se adapta a diferentes dispositivos, garantizando una experiencia óptima en escritorio y móviles.
 - API REST: El backend expone una API REST que facilita la interacción entre el cliente y el servidor.
+  
+![4](https://github.com/user-attachments/assets/58795b02-5936-4ea1-9dfa-75fc83d08b6e)
+![5](https://github.com/user-attachments/assets/286a07f7-bc4d-4a20-a707-e35e705a41c3)
+
+# ¡Muchas Gracias!
+
