@@ -17,12 +17,13 @@ Carrito de compras: Los usuarios pueden añadir productos a su carrito, ver su c
 
 Pagos seguros con PayPal: Integración con PayPal para procesar pagos de manera confiable.
 
-Páginas principales:
-Inicio: Breve descripción de la aplicación y sus funcionalidades.
-Productos: Visualiza todos los productos disponibles en la tienda.
-Registro: Formulario para que los nuevos usuarios se registren.
-Iniciar sesión: Acceso a cuentas existentes.
-Perfil: Los usuarios pueden gestionar su información personal.
-Carrito: Los usuarios pueden revisar y proceder al pago de sus productos seleccionados.
-Diseño responsivo: La aplicación se adapta a diferentes dispositivos, garantizando una experiencia óptima en escritorio y móviles.
-API REST: El backend expone una API REST que facilita la interacción entre el cliente y el servidor.
+## Páginas principales:
+
+- Inicio: Breve descripción de la aplicación y sus funcionalidades.
+- Productos: Visualiza todos los productos disponibles en la tienda.
+- Registro: Formulario para que los nuevos usuarios se registren.
+- Iniciar sesión: Acceso a cuentas existentes.
+- Perfil: Los usuarios pueden gestionar su información personal.
+- Carrito: Los usuarios pueden revisar y proceder al pago de sus productos seleccionados.
+- Diseño responsivo: La aplicación se adapta a diferentes dispositivos, garantizando una experiencia óptima en escritorio y móviles.
+- API REST: El backend expone una API REST que facilita la interacción entre el cliente y el servidor.
